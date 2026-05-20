@@ -19,8 +19,8 @@ owner:
   # bilibili: 
   # researchgate: 
   # zhihu: 
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  # facebook:
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -40,12 +40,6 @@ links:
     url: /
   # - title: Publications
   #   url: /publications/
-  # - title: Projects
-  #   url: /projects/
-  # - title: Service
-  #   url: /service/
-  # - title: Software
-  #   url: /software/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -82,5 +76,3 @@ kramdown:
 
 # include: [".htaccess"]
 # exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.
