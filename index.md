@@ -35,13 +35,20 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ---
 
 ## News and Updates
-- **Apr. 2025**:  [IJCAI'25](https://2025.ijcai.org) Tutorial accepted. The topic is *AI Meets Algebra: Foundations and Frontiers*.
+- **May. 2026**: [[ICML'26]](https://icml.cc/Conferences/2026) Two papers are accepted. One for tensor networks and one for robustness!
+- **Mar. 2026**: [[ICML'26]](https://icml.cc/Conferences/2026) I'm happy to annoucne that our workshop [colorai v2](https://grigoris.ece.wisc.edu/workshops/colorai-icml-2026/) is accepted by ICML 2026.
+- **Mar. 2026**:  [[Neurips'26]](https://neurips.cc) Honored to serve as an *Area Chair (AC)* .
+- **Mar. 2026**:  I was invited to attend [[Dagstuhl Seminars]](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/26102) on the topic of "Tensor Factorizations Meet Probabilistic Circuits" and gave a talk.
+- **Jan. 2026**:  [[AISTATS'26]](https://aistats.org/aistats2026/) Our paper [[arXiv]](https://arxiv.org/pdf/2510.22138) is accepted. AI interpretability via tensor networks! Fantastic effort from collaborators!
+- **Nov. 2025**:  [[ICML'26]](https://icml.cc/Conferences/2026) Honored to serve as an *Area Chair (AC)* .
+- **Sept. 2025**:  [[MICCAI'26]](https://conferences.miccai.org/2025/en/) Our paper [[link]](https://link.springer.com/chapter/10.1007/978-3-032-04965-0_36) is early accepted. PEFT via tensor networks! Frist try to this community! Fantastic effort from all collaborators!
+- **Apr. 2025**:  [[IJCAI'25]](https://2025.ijcai.org) Tutorial accepted. The topic is *AI Meets Algebra: Foundations and Frontiers*.
 - **Mar. 2025**:  The FY2025 Houga Collaboration Seed Fund has been awarded, in collaboration with Dr. [Xiyang Sun](https://albertlordsun.github.io/biography/) from RIKEN-CBS.
-- **Mar. 2025**: Two papers accepted at [*CVPR'25*](https://cvpr.thecvf.com)! Fantastic effort from all collaborators!
+- **Mar. 2025**: [[CVPR'25]](https://cvpr.thecvf.com) Two papers accepted! Fantastic effort from all collaborators!
 - **Mar. 2025**: Several trips are scheduled this month: *AIP-Retreat* (5-7); *JNNS Brain/Mind workshop* (10-12); *Tianyuan Math. Seminar* (16-22).
 - **Jan. 2025**：I will attend *7th R-CCS International Symposium on January 23-24, 2025, Kobe, Japan*. The theme this time is Fugaku and FugakuNEXT: Classical, Quantum, and AI.
 <!-- - **Dec. 2024**：Thrilled to launch my personal homepage! Thanks to Yuchen for the technical support. -->
-- **Nov. 2024**：I have been recognized as a NeurIPS 2024 Top Reviewer. Thanks!
+<!-- - **Nov. 2024**：I have been recognized as a NeurIPS 2024 Top Reviewer. Thanks! -->
 <!-- - **Oct. 2024**：I'm happy to annoucne that our workhop [colorai](https://april-tools.github.io/colorai/) is accepted by AAAI 2025.  -->
 
 
@@ -80,4 +87,5 @@ My current research focuses on practical problems that artificial intelligence f
 - AMED 脳神経科学統合プログラム (Brain/MINDS 2.0, 個別重点研究課題, 題目：*脳の構造と活動データに基づくデジタル脳の機能化と脳アーキテクチャを考慮した深層学習モデルの構築*, 研究開発分担者) プロジェクト (2024-2026).
 - 理化学研究所 奨励課題事業（SDGs枠 [10/52]、題目：*量子にインスパイアされた機械学習の強化：マルチ代数テンソルネットワークを用いた新しいパラダイム*、**研究代表者**）(2024-2025)
 
-As well, I'm involved in [RIKEN-Quantum](https://rq.riken.jp), which supports me to explore interesting topics in quantum machine learning. Many thanks for the support from my PI Qibin.
+
+<!-- As well, I'm involved in [RIKEN-Quantum](https://rq.riken.jp), which supports me to explore interesting topics in quantum machine learning. Many thanks for the support from my PI Qibin. -->
